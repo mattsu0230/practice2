@@ -12,7 +12,7 @@
     padding: 15px 0;
 }
 .linklist1 li span{
-    color:black;
+    color: black;
     margin: 0 100px;
 }
 span:hover{
@@ -20,7 +20,7 @@ span:hover{
 }
     .linklist2{
         font-size: 80px ;
-        color:black;
+        color: black;
         
     }
     .linklist2 li{
@@ -36,7 +36,7 @@ span:hover{
     }
     .linklist2 a{
         padding: 60px;
-        color:black;
+        color: black;
     }
     body{
         background-color: white;
