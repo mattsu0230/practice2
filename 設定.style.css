@@ -20,4 +20,11 @@ span:hover{
 body{
     background-color: white;
 }
+.linklist2 li span{
+  
+    font-size: 60px;
+    margin-left: 40px;
+    margin-top: 40px;
+    color: black;
+}
 
