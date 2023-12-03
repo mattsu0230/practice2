@@ -1,6 +1,7 @@
 @charset "uft-8";
 
 span{
+    color:black
     margin-left: 40px;
     border: 2px solid black;
     justify-content: left;
@@ -11,12 +12,14 @@ header{
     margin-top: 40px;
 }
 body h1{
+    color:black
     font-size: 30px;
     margin-left: 100px;
     padding-top: 50px;
     
 }
 body{
+    color:black
     padding-top: 50px;
 }
 
