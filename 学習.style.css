@@ -9,7 +9,7 @@
     display: flex;
     font-size: 30px;
     padding: 15px 0;
-    color: white;
+    color: black;
 }
 .linklist1 li span{
     margin: 0 100px;
@@ -30,7 +30,7 @@ span:hover{
     margin: 0 auto;
     margin-bottom: 90px;
     border-radius: 8px;
-    color: white;
+    color: black;
     
 }
 .linklist2 a{
