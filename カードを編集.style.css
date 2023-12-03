@@ -20,6 +20,7 @@ span:hover{
 }
     .linklist2{
         font-size: 80px ;
+        color:black;
         
     }
     .linklist2 li{
@@ -31,7 +32,7 @@ span:hover{
         margin: 0 auto;
         margin-bottom: 90px;
         border-radius: 8px;
-        color: white;
+        color: black;
     }
     .linklist2 a{
         padding: 60px;
