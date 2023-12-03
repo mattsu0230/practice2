@@ -12,6 +12,7 @@
     padding: 15px 0;
 }
 .linklist1 li span{
+    color:black;
     margin: 0 100px;
 }
 span:hover{
